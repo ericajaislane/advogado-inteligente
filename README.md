@@ -1,5 +1,5 @@
 # advogado-inteligente
-Perfeito — recebi o site de referência e as regras que você quer que a aplicação siga. Abaixo entrego **um plano completo e prático** para construir o aplicativo web (tipo 99Contratos) que gera minutas automatizadas no Brasil, seguido da **Parte 1** (especificação funcional + tech stack + ferramentas que você precisa instalar no computador). Vou dividir o trabalho em fases (“por partes”), como pediu — já comecei pela primeira parte aqui, para irmos avançando passo a passo.
+**Parte 1** (especificação funcional + tech stack + ferramentas que você precisa instalar no computador). Vou dividir o trabalho em fases (“por partes”), como pediu — já comecei pela primeira parte aqui, para irmos avançando passo a passo.
 
 Citação da referência: a página que servirá de modelo apresenta o fluxo “escolha o modelo → responda perguntas → baixe Word/PDF” e ferramentas extras (calculadoras, artigos). ([99Contratos][1])
 
