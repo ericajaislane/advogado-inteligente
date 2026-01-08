@@ -1,9 +1,5 @@
 # advogado-inteligente
-**Parte 1** (especificação funcional + tech stack + ferramentas que você precisa instalar no computador). Vou dividir o trabalho em fases (“por partes”), como pediu — já comecei pela primeira parte aqui, para irmos avançando passo a passo.
 
-Citação da referência: a página que servirá de modelo apresenta o fluxo “escolha o modelo → responda perguntas → baixe Word/PDF” e ferramentas extras (calculadoras, artigos). ([99Contratos][1])
-
----
 
 # Visão geral do produto (objetivo)
 
